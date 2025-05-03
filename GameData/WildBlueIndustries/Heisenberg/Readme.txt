@@ -19,6 +19,9 @@ If you're looking to cull parts, these folders will make it easier to do.
 
 ---REVISION HISTORY---
 
+2.20.2
+- Bug fixes
+
 2.20.0
 This has been a long time coming, but the 10+ year-old template system, which was a holdover from the earliest days of Multipurpose Colony Modules, is being retired in favor of the more flexible Omni Converter and Omni Storage system.
 
